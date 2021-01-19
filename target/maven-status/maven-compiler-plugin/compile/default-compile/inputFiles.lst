@@ -1,0 +1,12 @@
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/models/Customer.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/services/ProductService.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/InvoiceApplication.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/models/Invoice.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/models/Product.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/repositories/ProductRepository.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/repositories/InvoiceRepository.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/controllers/ProductController.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/models/Item.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/services/InvoiceService.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/repositories/CustomerRepository.java
+/home/dodiya/Work/Projects/invoice/src/main/java/com/example/invoice/controllers/InvoiceController.java
